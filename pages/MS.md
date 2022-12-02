@@ -1,1 +1,0 @@
-- [modern standby.patch](../assets/modern_standby_1663226240019_0.patch)
