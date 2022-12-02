@@ -8,6 +8,7 @@
 		- [[模板]]
 		- [[分詞構句]]
 		- [[感官動詞]]
+		- [[Inversion]]
 - [[English Vocabulary]]
 -
 - {{query (and [[Package]] (task TODO) (not [[Wistron]]))}}
