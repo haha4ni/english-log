@@ -1,0 +1,88 @@
+- [[FTP]]
+- [[JIRA]]
+-
+- ---
+- Platform
+	- Info
+	  collapsed:: true
+		- DT (Desktop)
+		- MTe (Mini Tower Entry)
+		- CFF (Compact Form Factor)
+		- MFF (Micro Form Factor)
+		- SFF (Small Form Factor)
+		- USFF (Ultra Small Form Factor)
+	- DT
+	  collapsed:: true
+		- D12 [[Plymouth]](GEN13)
+			- MTe
+				- Plymouth
+					- OptiPlex 5000
+				- Troy
+					- OptiPlex 3000
+				- Dolphin N
+					- Inspiron 3910
+				- Dolphin V
+					- Vostro 3710
+					- Vostro 3910
+				- Kaifeng
+					- ChengMing 3900
+					- ChengMing 3901
+			- MFF
+				- Kyoto MFF
+					- OptiPlex 7000 MFF
+				- Kyoto P (CFF)
+					- Precision 3260
+					- Precision 3460
+				- Plymouth MFF
+					- OptiPlex 5000 MFF
+				- Troy MFF
+					- OptiPlex 3000 MFF
+				- Troy JSL
+					- OptiPlex 3000TC MFF
+		- D13 [[Alexandria]]
+			- Alexandria High
+				- OptiPlex Tower 7010 Plus
+			- Venice High
+				- OptiPlex SFF 7010 Plus
+			- Luxor High
+				- OptiPlex MFF 7010 Plus
+			- Kyoto P MLK (CFF)
+				- Precision 3260
+				- Precision 3460
+			- Dolphin N MLK
+				- Inspiron 3020
+			- Dolphin V MLK
+				- Vostro 3020
+			- LuoYang
+				- ChengMing 3910
+				- ChengMing 3911
+		- D13 [[Luxor]]
+			- Alexandria Low
+				- OptiPlex Tower 7010
+			- Venice Low
+				- OptiPlex SFF 7010
+			- Luxor Low
+				- OptiPlex MFF 7010
+	- AIO
+		- [[Aegis]](GEN13)
+		  collapsed:: true
+			- Aegis UMA
+			- Aegis DIS
+				- Inspiron 24 5410 (Aegis 24" INTEL AIO)
+				- Inspiron 24 5411 (Aegis 24" INTEL AIO)
+				- Inspiron 24 7710 (Aegis 27" INTEL AIO)
+		- [[Dakar]](GEN13)
+		  collapsed:: true
+			- Dakar High
+				- OptiPlex AIO Plus 7410
+				- OptiPlex AIO 7410 65W
+			- Dakar Low
+				- OptiPlex AIO 7410 35W
+		- [[AegisMLK]](GEN14)
+		  collapsed:: true
+			- Aegis MLK UMA
+			- Aegis MLK DIS
+				- Inspiron 5420 (Aegis 24" INTEL AIO)
+				- Inspiron 5421 (Aegis 24" INTEL AIO)
+				- Inspiron 7720 (Aegis 27" INTEL AIO)
+-

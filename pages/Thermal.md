@@ -1,0 +1,7 @@
+- LinearThermalsSys.json
+-
+- 打開mfg mode & adv debug mode
+- [thermal_tool_test.patch](../assets/thermal_tool_test_1660620007824_0.patch)
+-
+- [[MBOX]]
+	- {{embed ((6311d4a7-137e-41ff-80e0-e8d7b882ab2a))}}

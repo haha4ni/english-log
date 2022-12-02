@@ -1,0 +1,41 @@
+title:: Syntax
+
+- # Title 1
+- ## Title 2
+- ### Title 3
+- #### Title 4
+- ##### Title 5
+- **bold type**
+- <u>bottom line</u>
+- ==highlight==
+- > quotation
+- [Link](https://www.youtube.com/)
+- `code`
+- ```C++
+  code
+  ```
+-
+- #+BEGIN_TIP
+   Tip
+   #+END_TIP
+-
+- #+BEGIN_IMPORTANT
+  	Important
+  #+END_IMPORTANT
+-
+- #+BEGIN_CAUTION
+   Caution
+   #+END_CAUTION
+-
+- #+BEGIN_PINNED
+   Pinned
+   #+END_PINNED
+-
+- #+BEGIN_WARNING
+   Warning
+   #+END_WARNING
+-
+- #+BEGIN_NOTE
+   Note
+   #+END_NOTE
+-

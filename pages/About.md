@@ -1,0 +1,15 @@
+- # Hi,I am Haha.
+- Connect with me
+- ![image](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF) ![image](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+- Language
+- ![image](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff) ![image](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff) ![image](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![image](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
+- Tool & Technologies
+- ![image](https://img.shields.io/badge/-Visual%20studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![image](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=CMake&logoColor=ffffff) ![image](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF) ![image](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google%20cloud&logoColor=white)
+-
+- <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haha4ni&layout=compact&theme=dark" alt="Most Used Languages" /></p>
+-
+-
+- ref:
+- https://github.com/coderjojo/creative-profile-readme?fbclid=IwAR05tY5Rkycbo5mleF04I1ZhxXdcWuKxQ9JVOhWjIW5gnY0ugYAc3hFKxTY
+- https://simpleicons.org/?fbclid=IwAR2TRrUWGFijSBbXxhqOi2OH1eFpB0L7XGoDwKJltVrH6mtyzEIG_mEcnK0
+-

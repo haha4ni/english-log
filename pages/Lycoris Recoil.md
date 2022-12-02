@@ -1,0 +1,2 @@
+- 04
+	- ![shnog6e.gif](../assets/shnog6e_1661846267552_0.gif)

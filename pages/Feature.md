@@ -1,0 +1,17 @@
+- [[Power Sequence]]
+- [[Thermal]]
+- [[SPI ROM]]
+- [[Power System]]
+- [[UART]]
+- [[MBOX]]
+- [[UPD]]
+- [[MS]]
+- [[Power Limit]]
+- [[LED]]
+- [[espi]]
+- [[Deep sleep]]
+- [[AC Type]]
+-
+-
+-
+- [gpio170_output_setting.patch](../assets/gpio170_output_setting_1663227620312_0.patch)

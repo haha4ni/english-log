@@ -1,0 +1,7 @@
+- SysUsbPD.c
+-
+- 把沒有PD的平台 功能禁止掉
+	- [no pd condition disable.patch](../assets/no_pd_condition_disable_1663225894985_0.patch)
+- address
+	- [pd_fw.patch](../assets/pd_fw_1663225944189_0.patch)
+- [remove upd+AIC.patch](../assets/remove_upd+AIC_1663226333078_0.patch)
