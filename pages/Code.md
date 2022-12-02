@@ -1,8 +1,0 @@
-- [[Leetcode]]
--
-- VS Code
-	- 清理暫存檔
-	- C:\Users\%username%\AppData\Roaming\Code\User\workspaceStorage
--
-- [[OS]]
--

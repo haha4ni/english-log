@@ -1,1 +1,0 @@
-- [RE_ _Aegis MLK_ EC protion of eSPI setting for X00.msg](../assets/RE_Aegis_MLK_EC_protion_of_eSPI_setting_for_X00_1662112567410_0.msg)
